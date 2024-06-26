@@ -1,0 +1,16 @@
+{
+  "name": "trim-images",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "glob-promise": "^6.0.7",
+    "sharp": "^0.33.4"
+  }
+}
